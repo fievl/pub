@@ -8,6 +8,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -492,13 +495,45 @@ h6,
 #features3-5 P {
   text-align: center;
 }
+#features3-5 H4 {
+  font-family: 'Raleway', sans-serif;
+}
 #header3-3 .mbr-section-title,
 #header3-3 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-3 H3 {
+  font-family: 'Raleway', sans-serif;
+}
 #social-buttons2-a .mbr-section-title,
 #social-buttons2-a .btn-social {
   color: #232323;
+}
+#social-buttons2-a .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+}
+#contacts5-4 p,
+#contacts5-4 .list-group-text,
+#contacts5-4 .form-control-label {
+  color: #000;
+}
+#contacts5-4 strong,
+#contacts5-4 h4 {
+  color: #7e9b9f;
+}
+#contacts5-4 form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-4 .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-4 .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-4 UL {
+  color: #000000;
+  font-size: 14px;
 }
 
 
