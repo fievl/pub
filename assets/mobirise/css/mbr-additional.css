@@ -427,11 +427,11 @@ h6,
   font-size: 20px;
 }
 #menu-0 .navbar-toggler {
-  color: #000000;
+  color: #7e9b9f;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #000000;
+  color: #7e9b9f;
   font-family: 'Raleway', sans-serif;
 }
 #menu-0 .link {
@@ -464,7 +464,7 @@ h6,
   background: #282828;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #000000;
+  color: #7e9b9f;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -486,7 +486,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #000000;
+  background-color: #7e9b9f;
 }
 #header2-9 P {
   text-align: center;
