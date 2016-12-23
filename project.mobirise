@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Over.html",
     "versionFirst": "3.8.1",
     "uniqCompNum": 28,
     "versionPublish": "3.10.1",
@@ -137,13 +137,22 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">BiograFie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Length .html\" aria-expanded=\"false\">Lengte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patroon.html\">Connect the dots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\" aria-expanded=\"false\">BiograFie</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Projecten</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Werk.html\">Werk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Length .html\" aria-expanded=\"false\">Lengte</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Connect the dots.html\">Connect the dots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Beeldarchief.html\">Beeldarchief</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "2",
@@ -162,7 +171,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">Meer info</a>  "
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Over.html\" data-toolbar=\"-mbrBtnMove\">Meer info</a>  "
               },
               {
                 "active": true,
@@ -176,7 +185,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Work.html\" data-toolbar=\"-mbrBtnMove\">Meer foto's</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Werk.html\" data-toolbar=\"-mbrBtnMove\">Meer foto's</a>"
               },
               {
                 "active": false,
@@ -190,7 +199,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Pattern.html\" data-toolbar=\"-mbrBtnMove\">Meer info</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Connect the dots.html\" data-toolbar=\"-mbrBtnMove\">Meer info</a>"
               }
             ],
             "fullScreen": false,
@@ -198,16 +207,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-q",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "left"
-            },
-            ".btn": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
