@@ -1,13 +1,6 @@
-<<<<<<< Updated upstream
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-=======
 @import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
->>>>>>> Stashed changes
 
 
 
@@ -1497,15 +1490,9 @@ body {
 .cid-qBlwlOsNGA .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
   margin-bottom: 1rem;
 }
-<<<<<<< Updated upstream
-#slider3-q H2 {
-  text-align: center;
-  font-family: 'Raleway', sans-serif;
-=======
 .cid-qBlwlOsNGA .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qBlwlOsNGA .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
->>>>>>> Stashed changes
 }
 .cid-qBlwlOsNGA .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-qBlwlOsNGA .collapsed .navbar-collapse.show .navbar-buttons:last-child {
@@ -2646,14 +2633,6 @@ body {
   text-align: left;
   padding-top: 2rem;
 }
-<<<<<<< Updated upstream
-
-
-
-
-#menu-c .hide-buttons .nav-btn {
-  display: none !important;
-=======
 .cid-qBItrcU8ET p {
   margin-bottom: 0;
   text-align: left;
@@ -2717,7 +2696,6 @@ body {
 .cid-qBlPEILSNc .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #232323;
->>>>>>> Stashed changes
 }
 .cid-qBlPEILSNc .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
@@ -2972,21 +2950,6 @@ body {
 .cid-qBIlHvxBLz .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
 }
-<<<<<<< Updated upstream
-#header3-t .mbr-section-title,
-#header3-t .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-t H3 {
-  font-family: 'Raleway', sans-serif;
-}
-#header3-t SMALL {
-  font-family: 'Lora', serif;
-  color: #8c8c8c;
-  text-align: right;
-}
-#header3-t SPAN {
-=======
 .cid-qBIlHvxBLz .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-qBIlHvxBLz .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
@@ -3321,7 +3284,6 @@ body {
   display: block;
   width: 60%;
   margin-left: -30%;
->>>>>>> Stashed changes
   text-align: center;
 }
 @media (max-width: 576px) {
@@ -3606,25 +3568,6 @@ body {
   padding-bottom: 1.4rem;
   text-align: left;
 }
-<<<<<<< Updated upstream
-
-
-
-
-#header3-u .mbr-section-title,
-#header3-u .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-u H3 {
-  font-family: 'Raleway', sans-serif;
-}
-#header3-u SMALL {
-  font-family: 'Lora', serif;
-  color: #8c8c8c;
-  text-align: right;
-}
-#header3-u SPAN {
-=======
 .cid-qBIm8zV25N .dropdown .dropdown-menu .dropdown-item {
   width: auto;
   padding: 0.235em 1.5385em 0.235em 1.5385em !important;
@@ -4118,7 +4061,6 @@ body {
   display: block;
   width: 60%;
   margin-left: -30%;
->>>>>>> Stashed changes
   text-align: center;
 }
 @media (max-width: 576px) {
@@ -5134,13 +5076,6 @@ body {
   padding-bottom: 1.4rem;
   text-align: left;
 }
-<<<<<<< Updated upstream
-
-
-
-
-#menu-0 .hide-buttons .nav-btn {
-=======
 .cid-qBIl4ruL9P .dropdown .dropdown-menu .dropdown-item {
   width: auto;
   padding: 0.235em 1.5385em 0.235em 1.5385em !important;
@@ -5253,7 +5188,6 @@ body {
   display: flex;
 }
 .cid-qBIl4ruL9P .collapsed .navbar-collapse {
->>>>>>> Stashed changes
   display: none !important;
   padding-right: 0 !important;
 }
@@ -5708,21 +5642,6 @@ body {
 .cid-qBIlR9iFd9 .carousel-item .container-slide {
   text-align: center;
 }
-<<<<<<< Updated upstream
-#header3-v .mbr-section-title,
-#header3-v .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-v H3 {
-  font-family: 'Raleway', sans-serif;
-}
-#header3-v SMALL {
-  font-family: 'Lora', serif;
-  color: #8c8c8c;
-  text-align: right;
-}
-#header3-v SPAN {
-=======
 .cid-qBIlR9iFd9 .content-slider-wrap {
   width: 92%;
 }
@@ -6045,7 +5964,6 @@ body {
 }
 .cid-qBIm213yZw .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qBIm213yZw .collapsed .navbar-collapse.show .navbar-buttons {
->>>>>>> Stashed changes
   text-align: center;
 }
 .cid-qBIm213yZw .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
@@ -6295,21 +6213,8 @@ body {
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-<<<<<<< Updated upstream
-
-
-
-
-
-
-#msg-box5-r P {
-  font-family: 'Lora', serif;
-  text-align: left;
-  color: #8c8c8c;
-=======
 .cid-qBIm2POW7R .footer-lower .social-list a:hover {
   opacity: 1;
->>>>>>> Stashed changes
 }
 @media (max-width: 767px) {
   .cid-qBIm2POW7R .footer-lower .social-list {
@@ -6806,13 +6711,4 @@ body {
 }
 .cid-qBIVhdhVN0 {
   background-image: url("../../../assets/images/imgp2285.jpg");
-}
-#msg-box5-w P {
-  font-family: 'Lora', serif;
-  text-align: left;
-  color: #8c8c8c;
-}
-#msg-box5-w SPAN {
-  font-family: 'Raleway', sans-serif;
-  text-align: left;
 }
